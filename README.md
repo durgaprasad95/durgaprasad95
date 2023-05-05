@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @durgaprasad95
 - 👀 I’m interested in learning new technologies (sometimes game engines and game development as well..)
-- 👀 I’ve experience in Angular/Stenciljs Frameworks & Springboot Framework
-- 🌱 I’m currently learning React
+- 👀 I’ve experience in Angular Frameworks, Stenciljs, React & Springboot Framework
 - 📫 How to reach me durgaprasadmurthy@live.com
 
 <!---
