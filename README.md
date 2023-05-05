@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies (sometimes game engines and game development as well..)
 - 👀 I’ve experience in Angular/Stenciljs Frameworks & Springboot Framework
 - 🌱 I’m currently learning React
-- 📫 How to reach me durgaprasad@live.com
+- 📫 How to reach me durgaprasadmurthy@live.com
 
 <!---
 durgaprasad95/durgaprasad95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
